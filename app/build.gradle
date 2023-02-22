@@ -73,4 +73,5 @@ dependencies {
 
     // Client for retrieving location
     implementation "com.google.android.gms:play-services-location:$version_play_services"
+    androidTestImplementation 'junit:junit:4.12'
 }
